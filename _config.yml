@@ -14,21 +14,12 @@ timezone: Asia/Taipei
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-<<<<<<< HEAD
-title: 星空下微風輕拂黃光閃耀的世界 # the main title
-
-tagline: 2025年至2038年紀錄 # it will display as the subtitle
-
-description: >- # used by seo meta and the atom feed
-  2025年至2038年紀錄
-=======
 title: 星空下微風輕拂黃光閃耀的世界一 # the main title
 
 tagline: 2025年至2038年紀錄一 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   2025年至2038年紀錄一
->>>>>>> 67c43b7 (20250821 v1)
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -48,11 +39,6 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/第12屆台北市長.候選人或代理.臺北市政府 # change to your Twitter homepage
-<<<<<<< HEAD
-    - https://github.com/第12屆台北市長.候選人或代理.臺北市政府 # change to your GitHub homepage
-=======
-    - https://github.com/huanghsinfeng # change to your GitHub homepage
->>>>>>> 67c43b7 (20250821 v1)
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
