@@ -22,9 +22,14 @@ package-lock.json
 !.vscode/extensions.json
 !.vscode/tasks.json
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # Misc
 _sass/vendors
 assets/js/dist
 =======
 >>>>>>> a8ce531 (20250902 v1)
+=======
+
+# Misc
+>>>>>>> d7d7964 (20250903 v1)

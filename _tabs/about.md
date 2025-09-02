@@ -36,6 +36,16 @@ order: 5
 
 2035
 
+<<<<<<< HEAD
+=======
+![鋒兄塗哥公關資訊](/images/poster_final_chinese.png)
+
+<video width="640" height="360" controls>
+  <source src="/videos/final_extended_video_with_subtitles.mp4" type="video/mp4">
+  您的瀏覽器不支援 HTML5 影片播放。
+</video>
+
+>>>>>>> d7d7964 (20250903 v1)
 2036
 
 2037
